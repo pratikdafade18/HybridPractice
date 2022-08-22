@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-22T12:23:42 IST" name="Default suite" finished-at="2022-08-22T12:24:16 IST" duration-ms="33733">
+    <groups>
+    </groups>
+    <test started-at="2022-08-22T12:23:42 IST" name="Default test" finished-at="2022-08-22T12:24:16 IST" duration-ms="33733">
+      <class name="com.hybrid.testClass.TC_LoginTestCase">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.hybrid.testClass.TC_LoginTestCase@2a7f1f10]" started-at="2022-08-22T12:23:38 IST" name="Setup" finished-at="2022-08-22T12:23:42 IST" duration-ms="4681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Login()[pri:1, instance:com.hybrid.testClass.TC_LoginTestCase@2a7f1f10]" started-at="2022-08-22T12:23:42 IST" name="Login" description="Login Functionality" finished-at="2022-08-22T12:24:16 IST" duration-ms="33674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="Tearup()[pri:0, instance:com.hybrid.testClass.TC_LoginTestCase@2a7f1f10]" started-at="2022-08-22T12:24:16 IST" name="Tearup" finished-at="2022-08-22T12:24:16 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tearup -->
+      </class> <!-- com.hybrid.testClass.TC_LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
